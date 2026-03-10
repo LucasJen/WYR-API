@@ -32,4 +32,5 @@ function randomWYRQuestion() {
     return randomQuestion
 }
 
+// exports this function so it can be imported by other files
 module.exports = randomWYRQuestion
